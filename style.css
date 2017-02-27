@@ -1,0 +1,31 @@
+h1 {
+	/*this makes all h1 tags pink*/
+	color: pink;
+}
+
+body {
+	/*this centers all the text on the page*/
+	text-align: center;
+	/*this gives the page a purple background*/
+	background-color: purple;
+	/*this changes the font for all the text on the page*/
+	font-family: "Comic Sans MS";
+}
+
+ol {
+	/*this changes the list numbers to roman numerals*/
+	list-style-type: upper-roman;
+	/*the width and margin properties make it so the list numbers are next to the list items*/
+	width: 75px;
+	margin: 0 auto;
+}
+
+img {
+	/*this sets a width for all images on the page*/
+	width: 200px;
+}
+
+a {
+	/*this sets the link text to black instead of the default blue*/
+	color: black;
+}
